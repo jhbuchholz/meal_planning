@@ -1,0 +1,85 @@
+# Family-Friendly Kitchen Pantry Staples v7
+# Organized by typical supermarket sections/aisles
+# Focus: Simple, whole ingredients for quick family meals
+
+pantry_staples:
+  
+  # GRAINS & PASTA AISLE
+  grains_and_pasta:
+    - white rice (jasmine or long grain)
+    - brown rice
+    - pasta (spaghetti, penne, rotini)
+    - rolled oats
+    - whole wheat flour
+    - all-purpose flour
+
+  # CANNED/JARRED GOODS AISLE  
+  canned_and_jarred:
+    - crushed tomatoes (28oz cans)
+    - tomato paste
+    - coconut milk (full fat)
+    - chicken broth (low sodium)
+    - vegetable broth
+    - black beans
+    - kidney beans
+    - chickpeas/garbanzo beans
+    - corn (no salt added)
+
+  # OILS, VINEGARS & CONDIMENTS
+  oils_and_condiments:
+    - olive oil (extra virgin)
+    - vegetable oil or canola oil
+    - sesame oil
+    - apple cider vinegar
+    - white vinegar
+    - soy sauce (low sodium)
+    - hot sauce
+    - honey
+    - maple syrup
+    - peanut butter or almond butter
+
+  # SPICES & SEASONINGS
+  spices_and_seasonings:
+    - kosher salt
+    - black pepper (whole peppercorns)
+    - garlic powder
+    - onion powder
+    - paprika
+    - cumin
+    - chili powder
+    - dried oregano
+    - dried basil
+    - bay leaves
+    - red pepper flakes
+
+  # BAKING AISLE
+  baking:
+    - baking soda
+    - baking powder
+    - vanilla extract
+    - brown sugar
+    - white sugar
+
+  # REFRIGERATED SECTION
+  refrigerated:
+    - eggs
+    - butter
+    - plain Greek yogurt
+    - parmesan cheese (block)
+    - cheddar cheese (block)
+
+  # FROZEN SECTION
+  frozen:
+    - frozen vegetables (broccoli, peas, corn, stir-fry mix)
+    - frozen ground meat (beef, turkey, or chicken)
+    - frozen chicken thighs or breasts
+
+  # PRODUCE SECTION (LONG-KEEPING ITEMS)
+  produce_staples:
+    - yellow onions
+    - minced garlic (jarred)
+    - carrots
+    - celery
+    - potatoes (russet or yukon)
+    - lemons
+    - ginger root
